@@ -1,0 +1,29 @@
+:root {
+  --color-uva: #6f42c1;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  background-color: var(--color-uva) !important;
+}
+
+.btn-uva {
+  background-color: var(--color-uva);
+  color: white;
+}
+
+.btn-uva:hover {
+  background-color: #5936a9;
+  color: white;
+}
+
+footer {
+  background-color: var(--color-uva);
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  margin-top: 2rem;
+}
