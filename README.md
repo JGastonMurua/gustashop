@@ -57,7 +57,7 @@ Quiero agradecer especialmente al profesor @nmfernandez1982 por compartir su con
 Este proyecto es resultado directo de su guía, claridad y compromiso con la enseñanza.
 
 🧑‍💻 Autor
-Gaston Murua
+Gastón Murua
 github.com/JGastonMurua
 
 📝 Licencia
